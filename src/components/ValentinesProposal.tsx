@@ -11,19 +11,18 @@ const playfairDisplay = Playfair_Display({
 
 // 12 images
 const images = [
-  "/game-photos/1.jpg",
-  "/game-photos/2.jpg",
-  "/game-photos/3.jpg",
-  "/game-photos/4.jpg",
-  "/game-photos/5.jpg",
-  "/game-photos/6.jpg",
-  "/game-photos/7.jpg",
-  "/game-photos/8.jpg",
-  "/game-photos/9.jpg",
-  "/game-photos/10.jpg",
-  "/game-photos/11.jpg",
-  "/game-photos/12.jpg",
-  
+  "/game-photos/1.avif",
+  "/game-photos/2.avif",
+  "/game-photos/3.avif",
+  "/game-photos/4.avif",
+  "/game-photos/5.avif",
+  "/game-photos/6.avif",
+  "/game-photos/7.avif",
+  "/game-photos/8.avif",
+  "/game-photos/9.avif",
+  "/game-photos/10.avif",
+  "/game-photos/11.avif",
+  "/game-photos/12.avif",
 ];
 
 export default function ValentinesProposal() {
