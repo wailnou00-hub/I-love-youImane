@@ -11,18 +11,18 @@ const playfairDisplay = Playfair_Display({
 
 // 12 images
 const images = [
-  "/1.jpg",
-  "/2.jpg",
-  "/3.jpg",
-  "/4.jpg",
-  "/5.jpg",
-  "/6.jpg",
-  "/7.jpg",
-  "/8.jpg",
-  "/9.jpg",
-  "/10.jpg",
-  "/11.jpg",
-  "/12.jpg",
+  "/game-photos/1.jpg",
+  "/game-photos/2.jpg",
+  "/game-photos/3.jpg",
+  "/game-photos/4.jpg",
+  "/game-photos/5.jpg",
+  "/game-photos/6.jpg",
+  "/game-photos/7.jpg",
+  "/game-photos/8.jpg",
+  "/game-photos/9.jpg",
+  "/game-photos/10.jpg",
+  "/game-photos/11.jpg",
+  "/game-photos/12.jpg",
   
 ];
 
