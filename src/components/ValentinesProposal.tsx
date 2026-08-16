@@ -161,7 +161,7 @@ export default function ValentinesProposal() {
                 onMouseEnter={() => setPosition(getRandomPosition())}
                 onClick={() => setPosition(getRandomPosition())}
               >
-                No,go with Baryocha🥺
+              go with BARYOCHA🥺
               </button>
             </div>
           </motion.div>
